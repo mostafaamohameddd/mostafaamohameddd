@@ -36,7 +36,7 @@ AWS (S3, EC2, SageMaker), Microsoft Azure (Familiarity)
  Developed an end-to-end, low-latency system using PyTorch ResNet50 fine-tuned on RAF-DB for live emotion analysis. Leveraged OpenCV and Flask and ensured production-grade deployment using Docker on Hugging  Face Spaces for high availability.
 
 - **GAIA-Net-Genetic-AI-Algorithm-for-Edge-Efficiency-Optimization**  
-  Engineered an End-to-End Neural Architecture Search (NAS) solution using a Genetic Algorithm (GA) to auto-generate highly efficient DL models. Achieved a crucial balance between high accuracy and extreme    efficiency ($<10\text{k}$ parameters) for resource-constrained IoT Edge devices
+  Engineered an End-to-End Neural Architecture Search (NAS) solution using a Genetic Algorithm (GA) to auto-generate highly efficient DL models. Achieved a crucial balance between high accuracy and extreme    efficiency ($<10\text{k}$ parameters) for resource-constrained IoT Edge devices.
 
 - **Real-Time-Speech-Command-Recognition**  
   Built a lightweight, real-time command recognition system classifying five spoken commands using a Convolutional Neural Network (CNN). Trained on the TensorFlow Speech Commands dataset to enable hands-
