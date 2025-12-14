@@ -45,8 +45,7 @@ AWS (S3, EC2, SageMaker), Microsoft Azure (Familiarity)
 
 ##  Contact
 
-* **LinkedIn:** [www.linkedin.com/in/mostafa-mohamed14](https://www.linkedin.com/in/mostafa-mohamed14)  
-* **GitHub:** [github.com/mostafaamohameddd](https://github.com/mostafaamohameddd)  
+* **LinkedIn:** [www.linkedin.com/in/mostafa-mohamed14](https://www.linkedin.com/in/mostafa-mohamed14)   
 * **Email:** [mostafamohamed225268@gmail.com](mailto:mostafamohamed225268@gmail.com)  
 
 ---
