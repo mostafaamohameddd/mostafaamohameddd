@@ -32,14 +32,15 @@ AWS (S3, EC2, SageMaker), Microsoft Azure (Familiarity)
 
 ## Highlight Projects
 
-- **Speech Command Recognition**  
-  Developed a CNN-based speech recognition system with 95% accuracy, including a custom CLI for real-time predictions.
+- **End-to-end-Real-Time-Face-Emotion-Detection**  
+ Developed an end-to-end, low-latency system using PyTorch ResNet50 fine-tuned on RAF-DB for live emotion analysis. Leveraged OpenCV and Flask and ensured production-grade deployment using Docker on Hugging  Face Spaces for high availability.
 
-- **Fake News Detection**  
-  Built a robust NLP model using TF-IDF + ML algorithms (Logistic Regression, SVM, Random Forest) achieving 98% accuracy.
+- **GAIA-Net-Genetic-AI-Algorithm-for-Edge-Efficiency-Optimization**  
+  Engineered an End-to-End Neural Architecture Search (NAS) solution using a Genetic Algorithm (GA) to auto-generate highly efficient DL models. Achieved a crucial balance between high accuracy and extreme    efficiency ($<10\text{k}$ parameters) for resource-constrained IoT Edge devices
 
-- **Fire & Smoke Detection**  
-  Designed a YOLOv8-based real-time detection system, combining large datasets with advanced augmentations to improve accuracy and robustness.
+- **Real-Time-Speech-Command-Recognition**  
+  Built a lightweight, real-time command recognition system classifying five spoken commands using a Convolutional Neural Network (CNN). Trained on the TensorFlow Speech Commands dataset to enable hands-
+  free interaction for simple IoT integrations.
 
 ---
 
