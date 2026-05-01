@@ -32,6 +32,9 @@ AWS (S3, EC2, SageMaker), Microsoft Azure (Familiarity)
 
 ## Highlight Projects
 
+- **SnapTalk-EndToEnd-CV-Language-App**  
+Developed an end-to-end, modular multimodal system using YOLOv8 and MobileSAM for zero-shot object detection and semantic segmentation. Leveraged FastAPI, VLM providers (Qwen2-VL), and Edge-TTS for automated flashcard generation, and integrated Whisper with Wav2Vec2 for precise phoneme-level pronunciation assessment. Ensured production-grade deployment with modular service orchestration and automated runtime verification for high availability and reliability.
+
 - **End-to-end-Real-Time-Face-Emotion-Detection**  
  Developed an end-to-end, low-latency system using PyTorch ResNet50 fine-tuned on RAF-DB for live emotion analysis. Leveraged OpenCV and Flask and ensured production-grade deployment using Docker on Hugging  Face Spaces for high availability.
 
